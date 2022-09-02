@@ -1,0 +1,12 @@
+repoOwner: Create-Inc-Candidates
+learnMoreLink: https://create.xyz
+config:
+  version: 1.0.0
+projectName: Coding Assessment Ares90125
+abbreviatedProjectName: codingAssessmentAres90125
+repoName: coding-assessment-ares90125
+environments: []
+stack:
+  - features: []
+    kind: CodingAssessment
+    path: .
